@@ -1,0 +1,16 @@
+{
+  "webProject": {
+    "projectFile": "./LearningCoalesce.Web/LearningCoalesce.Web.csproj"
+  },
+  "dataProject": {
+    "projectFile": "./LearningCoalesce.Data/LearningCoalesce.Data.csproj"
+  },
+
+  "rootGenerator": "Vue",
+
+  "generatorConfig": {
+    "Scripts": {
+      "targetDirectory": "../src"
+    }
+  }
+}
